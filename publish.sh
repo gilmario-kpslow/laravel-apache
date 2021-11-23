@@ -1,2 +1,2 @@
 #!/bin/bash
-docker pull gilmariokpslow/laravel-apache:latest
+docker push gilmariokpslow/laravel-apache:latest
